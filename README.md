@@ -8,5 +8,5 @@
 
 ### Be nice. Don't be evil
 
-#### This is `{your name}` and I am done talking ![](https://cdn1.iconfinder.com/data/icons/music-ios/64/mus-radio-mic-off-512.png)<img src="https://cdn.onlinewebfonts.com/svg/img_420441.png" border=none background=gray width="20px" height="20px"> 🙂
+#### This is `{your name}` and I am done talking ![](https://cdn1.iconfinder.com/data/icons/music-ios/64/mus-radio-mic-off-512.png)<img src="https://cdn.onlinewebfonts.com/svg/img_420441.png" border=none background="gray" width="20px" height="20px"> 🙂
 
